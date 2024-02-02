@@ -1,0 +1,33 @@
+.icon1,
+.icon2 {
+  position: absolute;
+  top: 2px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.icon1 {
+  left: 98px;
+  mix-blend-mode: normal;
+}
+.icon2 {
+  left: 50px;
+}
+.div-flex,
+.icon2,
+.icon3 {
+  mix-blend-mode: normal;
+}
+.icon3 {
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.div-flex {
+  width: 100%;
+  position: relative;
+  height: 24px;
+}

@@ -1,0 +1,12 @@
+.property-of-their {
+  width: 845px;
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 20px;
+  font-family: var(--font-inter);
+  color: var(--color-dimgray);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  height: 44px;
+}

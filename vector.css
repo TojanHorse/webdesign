@@ -1,0 +1,6 @@
+.vector {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-darkgray-100);
+  height: 16.6px;
+}

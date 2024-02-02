@@ -1,0 +1,13 @@
+.terms-of-use {
+  width: 84px;
+  position: relative;
+  font-size: var(--font-size-smi-9);
+  line-height: 20px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-darkgray-100);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  height: 22px;
+}
